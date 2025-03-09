@@ -22,6 +22,21 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+```py
+@typeclass
+class Hello:
+    name: str,
+    age: int
+```
+
+1. Hello World
+2. Hello World
+3. Hello World
+
+::: hello
+World
+:::
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
